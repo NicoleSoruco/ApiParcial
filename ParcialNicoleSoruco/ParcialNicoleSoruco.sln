@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParcialNicoleSoruco", "ParcialNicoleSoruco\ParcialNicoleSoruco.csproj", "{4C6E4326-42D2-4F93-87AD-B33A4BEF4461}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestsoruco", "UnitTestsoruco\UnitTestsoruco.csproj", "{553B3DF3-E5B7-401C-AFBF-4240137E2BF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C6E4326-42D2-4F93-87AD-B33A4BEF4461}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C6E4326-42D2-4F93-87AD-B33A4BEF4461}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C6E4326-42D2-4F93-87AD-B33A4BEF4461}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C6E4326-42D2-4F93-87AD-B33A4BEF4461}.Release|Any CPU.Build.0 = Release|Any CPU
+		{553B3DF3-E5B7-401C-AFBF-4240137E2BF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{553B3DF3-E5B7-401C-AFBF-4240137E2BF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{553B3DF3-E5B7-401C-AFBF-4240137E2BF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{553B3DF3-E5B7-401C-AFBF-4240137E2BF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89C293D6-F6B6-44BF-81F2-19699CFFC3F3}
+	EndGlobalSection
+EndGlobal
